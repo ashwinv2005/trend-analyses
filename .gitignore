@@ -3,7 +3,7 @@
 .Rapp.history
 
 # Session data files
-#/*.RData
+/*.RData
 
 # Example code in package build process
 *-Ex.R
@@ -70,6 +70,8 @@ rsconnect/
 #India/
 #India Districts/
 #India States/
+in_dists_2019/
+2021 India Admin Boundary Maps/
 All Trends/
 All Maps/
 All Trend Graphs/
